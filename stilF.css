@@ -1,0 +1,8 @@
+.background
+{
+	background-image: url("img/borac.JPG");
+	-webkit-filter:grayscale(50%); /* ALAT ZA TRANSFORMACIJU SLIKE */
+	filter: grayscale(50%);
+	object-position: top-right;
+	background-repeat: no-repeat;
+}

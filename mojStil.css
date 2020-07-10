@@ -1,0 +1,36 @@
+
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover,
+.dropdown-menu > li > a:hover,
+.btn-default:hover 
+{
+	color: #333;
+	background-color: #ff0000;
+	text-decoration: none;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover 
+{
+color:#555;
+background-color:#8d8a8a;
+}
+
+.img-thumbnail 
+{
+	border: 1px solid #ff0000;
+}
+
+.panel-footer
+{
+	border-top: 1px solid #ff0000;
+}
+
+iframe
+{
+	border: 0;
+	width: 1400px;
+	height: 930px;
+}
+

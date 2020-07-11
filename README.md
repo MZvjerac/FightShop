@@ -33,7 +33,7 @@ USE-CASE FOR ADMINISTRATOR:
 	
 ## Setup
  To run this application, download all files and folders locally in xampp/htdocs folder.
- Then just double click on the file "duksevi.php".
+ Then just double click on the file "duksevi.php". Other option is to open "duksevi.com" from Sublime or some other IDE/Editor.
 
 #### * - meaning: user can only put selected products in the cart, and see what is in it and total cost, 
          Code for the payment option is not posted. That is a part for you to finish.
